@@ -1,4 +1,4 @@
-# Network connectivity_app
+# <div align="center">  Network connectivity_app </div>
 
 <div align="center">
   
